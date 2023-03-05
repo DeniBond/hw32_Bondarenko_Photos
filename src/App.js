@@ -1,0 +1,10 @@
+import './App.css';
+import Photos from "./Photos";
+
+function App() {
+    return (
+            <Photos/>
+    );
+}
+
+export default App;
